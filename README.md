@@ -1,5 +1,18 @@
 # 版本v2.0.1
 
+##### 引用
+
+    allprojects {
+        allprojects {
+            repositories {
+                ...
+                maven { url "https://jitpack.io" }
+            }
+        }
+        dependencies {
+            ...
+            implementation 'com.github.NoBugException:AllToast:2.0.1'
+        }
 
 
 ##### 基本使用
@@ -23,5 +36,25 @@
                         .show();
 
 ##### 效果图
-
-![sdk_list.png](http://to1.itplt.com:8102/zhouyunchong/gssdk-android/raw/master/image/sdk_list3.png)
+![image1.png](https://github.com/NoBugException/AllToast/blob/master/image/image1.png)
+![image2.png](https://github.com/NoBugException/AllToast/blob/master/image/image2.png)
+![image3.png](https://github.com/NoBugException/AllToast/blob/master/image/image3.png)
+![image4.png](https://github.com/NoBugException/AllToast/blob/master/image/image4.png)
+![image5.png](https://github.com/NoBugException/AllToast/blob/master/image/image5.png)
+![image6.png](https://github.com/NoBugException/AllToast/blob/master/image/image6.png)
+![image7.png](https://github.com/NoBugException/AllToast/blob/master/image/image7.png)
+![image8.png](https://github.com/NoBugException/AllToast/blob/master/image/image8.png)
+![image9.png](https://github.com/NoBugException/AllToast/blob/master/image/image9.png)
+![image10.png](https://github.com/NoBugException/AllToast/blob/master/image/image10.png)
+![image11.png](https://github.com/NoBugException/AllToast/blob/master/image/image11.png)
+![image12.png](https://github.com/NoBugException/AllToast/blob/master/image/image12.png)
+![image13.png](https://github.com/NoBugException/AllToast/blob/master/image/image13.png)
+![image14.png](https://github.com/NoBugException/AllToast/blob/master/image/image14.png)
+![image15.png](https://github.com/NoBugException/AllToast/blob/master/image/image15.png)
+![image16.png](https://github.com/NoBugException/AllToast/blob/master/image/image16.png)
+![image17.png](https://github.com/NoBugException/AllToast/blob/master/image/image17.png)
+![image18.png](https://github.com/NoBugException/AllToast/blob/master/image/image18.png)
+![image19.png](https://github.com/NoBugException/AllToast/blob/master/image/image19.png)
+![image20.png](https://github.com/NoBugException/AllToast/blob/master/image/image20.png)
+![image21.png](https://github.com/NoBugException/AllToast/blob/master/image/image21.png)
+![image22.png](https://github.com/NoBugException/AllToast/blob/master/image/image22.png)
