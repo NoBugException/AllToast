@@ -58,3 +58,4 @@
 ![image20.png](https://github.com/NoBugException/AllToast/blob/master/image/image20.png)
 ![image21.png](https://github.com/NoBugException/AllToast/blob/master/image/image21.png)
 ![image22.png](https://github.com/NoBugException/AllToast/blob/master/image/image22.png)
+![image23.png](https://github.com/NoBugException/AllToast/blob/master/image/image23.gif)
