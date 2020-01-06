@@ -34,6 +34,9 @@
                         .orientation(AllToast.ORIENTATION.VERTICAL)
                         .typeface(AllToast.TYPEFACE.TYPEFACE_11)
                         .show();
+##### 封装文档
+
+[Github项目之Toast封装](https://www.jianshu.com/p/cfc6370d028b)
 
 ##### 效果图
 ![image1.png](https://github.com/NoBugException/AllToast/blob/master/image/image1.png)
